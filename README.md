@@ -8,3 +8,8 @@ Estoy aprendiendo a utilizar Git desde Visual Studio Code.
 - Dominar los commits.
 - Trabajar con ramas.
 - Publicar proyectos en GitHub.
+
+## Mi progreso
+
+Ya aprendí a crear commits.
+También estoy aprendiendo a usar GitHub.
