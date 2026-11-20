@@ -19,3 +19,9 @@ También estoy aprendiendo a usar GitHub.
 He publicado mi primer repositorio remoto.
 
 Estoy aprendiendo a sincronizar mis cambios.
+
+## Mi primera edición remota
+
+Este cambio lo estoy realizando directamente desde GitHub.
+
+Mi objetivo es aprender a utilizar git pull.
