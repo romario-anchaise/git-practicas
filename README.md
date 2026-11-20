@@ -13,3 +13,9 @@ Estoy aprendiendo a utilizar Git desde Visual Studio Code.
 
 Ya aprendí a crear commits.
 También estoy aprendiendo a usar GitHub.
+
+## GitHub
+
+He publicado mi primer repositorio remoto.
+
+Estoy aprendiendo a sincronizar mis cambios.
